@@ -3,3 +3,6 @@ tensorflow
 numpy
 cython
 pandas
+opencv-python==4.8.1.78
+matplotlib==3.8.1
+scikit-image==0.22.0
