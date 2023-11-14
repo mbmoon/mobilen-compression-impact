@@ -6,3 +6,4 @@ pandas
 opencv-python==4.8.1.78
 matplotlib==3.8.1
 scikit-image==0.22.0
+more-itertools==10.1.0
